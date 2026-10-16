@@ -1,10 +1,18 @@
-ssh-keygen -t rsa -b.4096 -C 'ajitk3043@gmail.com"
+ssh-keygen -t rsa -b.4096 -C "ajitk3043@gmail.com"
 
-eval "s(ssh-agent -s)"
+eval "$(ssh-agent -s)"
 
-ssh-add -/.ssh/id rse
+ssh-add ~/.ssh/id_rsa
 
-cal -/.ssh/id rsa.pub
-(then copy the content)
+cat ~/.ssh/id_rsa.pub
+    (then copy the content)
 
 copy and paste the ssh key on Github/Citlab
+git toketen :- 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
+
+use this git command to push the git in git hub
+git remote add origin main (url)( https://tokenhere@github.com/user_name/repo_name.git)
+git remote add origin main (url)( https://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@github.com/Itsmeajeet/DevOps)
+
+#Final Command Here
+git remote add origin main ( https://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@github.com/Itsmeajeet/DevOps)
