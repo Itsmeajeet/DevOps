@@ -1,0 +1,10 @@
+ssh-keygen -t rsa -b.4096 -C 'ajitk3043@gmail.com"
+
+eval "s(ssh-agent -s)"
+
+ssh-add -/.ssh/id rse
+
+cal -/.ssh/id rsa.pub
+(then copy the content)
+
+copy and paste the ssh key on Github/Citlab
