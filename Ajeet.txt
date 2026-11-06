@@ -2,3 +2,7 @@ I just added changes to learn git commit commant
 Are we done with commit
 Hello from Main Branch
 lets Say the main commit has been 12 Now 
+So I just reinstalled the Window because i had deleted some of imported file of window startup and   because i had Downloaded Games from ocean of games and that told me to turnoff the dindow defender and then install some of the tools just to pleay the game i did that even when i was knowen that it can harm my pc and that happend i tried to fix it but accently deleted the main window botable files and all. so i tried to reinstall the window but i had so many problem installing it because i just had started learing linux and ubantu.
+In the same process i even lost so many of my data and access to the bit and the File Athina So now i do not had any option left so i just cloned all the files from github. Will do the same with git lab. As i hpe it workout well. All though i lost so many of my daaeven deleted my data from hdd storage file, while nstalling Window11 pro in my ssd. I must say it was really a hard day.. But anywayThank god i am able to solve it.
+its going to be my 19 Commit today. 07-11-2026 | I am on Docker by the way its been 3 weeks and i didn't have finished it i will this week
+
